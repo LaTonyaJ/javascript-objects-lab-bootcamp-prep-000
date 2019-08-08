@@ -22,7 +22,7 @@ function deleteFromObjectByKey(object, key){
 
 function destructivelyDeleteFromObjectByKey(object, key){
   
-  delete Object.key
+  delete recipes.key
   var newObj = Object.assign({})
   return newObj
   
